@@ -5,5 +5,7 @@ public class Hello{
 		System.out.println("master修改");
 		System.out.println("适合");
 		Date date = new Date();
+		System.out.println("master修改");
+		System.out.println("dev修改");
 	}
 }
