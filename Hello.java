@@ -7,7 +7,9 @@ public class Hello{
 		Date date = new Date();
 		System.out.println("masterĞŞ¸Ä");
 		System.out.println("devĞŞ¸Ä");
-		Date date = new Date();
-		System.out.println("²¹¶¡");
+		2015/11/3
+			System.out.println("***");
+		System.out.println("bu ding");
+		2015/11/3
 	}
 }
