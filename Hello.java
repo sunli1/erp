@@ -3,5 +3,7 @@ public class Hello{
 		System.out.println("hello git");
 		System.out.println("hello git");
 		System.out.println("masterĞŞ¸Ä");
+		System.out.println("ÊÊºÏ");
+		Date date = new Date();
 	}
 }
