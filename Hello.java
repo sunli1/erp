@@ -7,5 +7,6 @@ public class Hello{
 		Date date = new Date();
 		System.out.println("masterĞŞ¸Ä");
 		System.out.println("devĞŞ¸Ä");
+		Date date = new Date();
 	}
 }
